@@ -11,7 +11,7 @@ def read(fname):
     ).read()
 
 setup(
-    name="rrmngmnt",
+    name="python-rrmngmnt",
     version="0.1",
     author="Lukas Bednar",
     author_email="lukyn17@gmail.com",
